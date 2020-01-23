@@ -1,0 +1,5 @@
+{
+    "master": "dev",
+    "staging": "staging",
+    "feature-a": "feature-a"
+}
